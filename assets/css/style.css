@@ -79,6 +79,21 @@ section {
     position: relative;
 }
 
+.hero-cta {
+    text-align: right;
+    width: 400px;
+}
+
+.hero-cta h2 {
+    color:#fce138;
+    font-style: italic;
+    font-size: 35px;
+}
+
+.hero-cta p {
+    color: white;
+}
+
 .hero-form {
     color: #024e76;
     background-color: #fce138;
